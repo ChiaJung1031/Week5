@@ -1,5 +1,6 @@
 # Week5
 要求三
+
 使用 INSERT 指令新增一筆資料到 user 資料表中，這筆資料的 username 和password 欄位必須是 ply。接著繼續新增至少 4 筆隨意的資料。
 
 ![image](https://user-images.githubusercontent.com/76677263/112241027-6dc30080-8c84-11eb-8f5e-7f2b24201b4a.png)
@@ -39,6 +40,7 @@
 ![image](https://user-images.githubusercontent.com/76677263/112241353-0ce7f800-8c85-11eb-9e13-b1e081dbbe38.png)
 
 要求四
+
 使用 SELECT 搭配 JOIN 的語法，取得所有留言，資料中須包含留言會員的姓名。
 
 ![image](https://user-images.githubusercontent.com/76677263/112241375-1709f680-8c85-11eb-936f-01d17d430f1f.png)
