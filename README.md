@@ -17,9 +17,16 @@
 
 ![image](https://user-images.githubusercontent.com/76677263/112241210-c6929900-8c84-11eb-9a29-7d12c369a076.png)
 
-使用 SELECT 指令取得 user 資料表中第 2 ~ 4 共三筆資料，並按照 time 欄位，由近到遠排序。
+※(修正)使用 SELECT 指令取得 user 資料表中第 2 ~ 4 共三筆資料，並按照 time 欄位，由近到遠排序。
 
-![image](https://user-images.githubusercontent.com/76677263/112241223-cf836a80-8c84-11eb-9f27-a7fcc22dc6f7.png)
+(修正後重新insert的五筆資料)
+
+![image](https://user-images.githubusercontent.com/76677263/112262782-29962700-8ca9-11eb-999b-0f095b244a32.png)
+
+(資料中第2~4筆)
+
+![image](https://user-images.githubusercontent.com/76677263/112262735-1420fd00-8ca9-11eb-93cc-dd95cc03fe47.png)
+
 
 使用 SELECT 指令取得欄位 username 是 ply 的使用者資料。
 
